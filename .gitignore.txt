@@ -1,0 +1,14 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+# github
+.md5
+.sha1
+SpotitubeApp.war/
+webapp/
