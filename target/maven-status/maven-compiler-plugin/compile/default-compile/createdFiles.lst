@@ -17,6 +17,7 @@ nl\han\dea\joris\database\dao\UserPlaylistType.class
 nl\han\dea\joris\database\dao\UserDAO.class
 nl\han\dea\joris\track\TracksResponseDTO.class
 nl\han\dea\joris\services\PlaylistService.class
+nl\han\dea\joris\controllers\HomeController.class
 nl\han\dea\joris\exceptions\TokenException.class
 nl\han\dea\joris\database\objects\Track.class
 nl\han\dea\joris\track\AllTracks.class
